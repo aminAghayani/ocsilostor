@@ -1,9 +1,9 @@
 # ocsilostor
-This is oscilostor, one part of my oscilostor 
+This is oscilostor, one part of my thesis project
 
 Oscilostor is a great portable system with a cross-patform desktop application to measure voltage and current signals and generate real-time graphs and find resistance, capacitance, and inductance values. The whole package together is a cheap option for educational purposes.
 
-Both hardware and software side of this project was by me.
+Both hardware and software sides of this project was by me.
 
 Altium designer board design, micro controller code, and Qt/C++ application codes are available above.
 
